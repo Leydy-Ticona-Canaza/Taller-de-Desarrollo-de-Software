@@ -1,0 +1,36 @@
+# ─── Secretos / entorno ───────────────────────────────
+.env
+*.env
+!.env.example
+
+# ─── Backend (Python / FastAPI) ───────────────────────
+backend/venv/
+backend/uploads/
+**/__pycache__/
+*.py[cod]
+*.log
+backend/uvicorn.*.log
+
+# ─── Frontend (Node / Vite) ───────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/*.log
+
+# ─── Archivos del raíz que no forman parte de la app ──
+# (documentos de presentación, imágenes sueltas y scripts auxiliares)
+/*.docx
+/*.pptx
+/*.pdf
+/*.tex
+/*.jpg
+/*.jpeg
+/*.png
+/*.py
+/*.sql
+/screenshots/
+
+# ─── Sistema operativo / editor ───────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
