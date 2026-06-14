@@ -37,3 +37,6 @@ Thumbs.db
 
 # Archivos temporales de Office
 ~\$*
+
+# Configuración local de herramientas
+.claude/
