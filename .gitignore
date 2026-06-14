@@ -34,3 +34,6 @@ frontend/*.log
 Thumbs.db
 .vscode/
 .idea/
+
+# Archivos temporales de Office
+~\$*

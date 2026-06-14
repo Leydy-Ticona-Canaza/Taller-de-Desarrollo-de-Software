@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "nombre": "Administrador",
+    "email": "admin@mecanicgo.com",
+    "rol": "admin",
+    "activo": true,
+    "telefono": "555-0000",
+    "mecanico": null
+  },
+  {
+    "id": 9,
+    "nombre": "Soportes Tigre",
+    "email": "trigresoporte@gamial.com",
+    "rol": "soporte",
+    "activo": true,
+    "telefono": "999666333",
+    "mecanico": null
+  },
+  {
+    "id": 12,
+    "nombre": "Cesar Ticona Aguilar",
+    "email": "cesarticona@gmail.com",
+    "rol": "mecanico",
+    "activo": true,
+    "telefono": "992571753",
+    "mecanico": {
+      "nombre_local": null,
+      "aprobado": true,
+      "ubicacion": "Av. Florar 250, Puno",
+      "especialidades": "Frenos, Motor, Mantenimiento"
+    }
+  },
+  {
+    "id": 13,
+    "nombre": "Daniel Calisaya Mamani",
+    "email": "Danielcalisaya@gmail.com",
+    "rol": "mecanico",
+    "activo": true,
+    "telefono": "9696677356",
+    "mecanico": {
+      "nombre_local": null,
+      "aprobado": true,
+      "ubicacion": "Av. El Sol 1587, Puno",
+      "especialidades": "Reparaciones, Cambio de Llantas, Cambio de Aceite, Pintado"
+    }
+  },
+  {
+    "id": 14,
+    "nombre": "Leydy Ticona Canaza",
+    "email": "ydyelcanaza@gmail.com",
+    "rol": "cliente",
+    "activo": true,
+    "telefono": "955977065",
+    "mecanico": null
+  },
+  {
+    "id": 15,
+    "nombre": "Yimmy Mamani Pari",
+    "email": "yimmymamani@gmail.com",
+    "rol": "mecanico",
+    "activo": true,
+    "telefono": "954424795",
+    "mecanico": {
+      "nombre_local": null,
+      "aprobado": false,
+      "ubicacion": null,
+      "especialidades": null
+    }
+  },
+  {
+    "id": 16,
+    "nombre": "Marco Mamani Rodriguez",
+    "email": "marcomamani@gmail.com",
+    "rol": "mecanico",
+    "activo": true,
+    "telefono": "913353830",
+    "mecanico": {
+      "nombre_local": null,
+      "aprobado": false,
+      "ubicacion": null,
+      "especialidades": null
+    }
+  },
+  {
+    "id": 17,
+    "nombre": "Antonio Ccama Maquera",
+    "email": "antonioccama@gmail.com",
+    "rol": "mecanico",
+    "activo": true,
+    "telefono": "970801003",
+    "mecanico": {
+      "nombre_local": null,
+      "aprobado": false,
+      "ubicacion": null,
+      "especialidades": null
+    }
+  },
+  {
+    "id": 18,
+    "nombre": "Mario Casas Alvarez",
+    "email": "mariocasas@gmail.com",
+    "rol": "mecanico",
+    "activo": true,
+    "telefono": "979018429",
+    "mecanico": {
+      "nombre_local": null,
+      "aprobado": false,
+      "ubicacion": null,
+      "especialidades": null
+    }
+  },
+  {
+    "id": 19,
+    "nombre": "Jose Canaza Mamani",
+    "email": "josecanaza@gmail.com",
+    "rol": "mecanico",
+    "activo": true,
+    "telefono": "929877518",
+    "mecanico": {
+      "nombre_local": null,
+      "aprobado": false,
+      "ubicacion": null,
+      "especialidades": null
+    }
+  },
+  {
+    "id": 20,
+    "nombre": "Julio Cauna Oliva",
+    "email": "juliocauna@gmail.com",
+    "rol": "mecanico",
+    "activo": true,
+    "telefono": "994936766",
+    "mecanico": {
+      "nombre_local": null,
+      "aprobado": false,
+      "ubicacion": null,
+      "especialidades": null
+    }
+  },
+  {
+    "id": 21,
+    "nombre": "Ricardo Calcina Apaza",
+    "email": "ricardocalcina@gmail.com",
+    "rol": "mecanico",
+    "activo": true,
+    "telefono": "928733197",
+    "mecanico": {
+      "nombre_local": null,
+      "aprobado": false,
+      "ubicacion": null,
+      "especialidades": null
+    }
+  },
+  {
+    "id": 22,
+    "nombre": "Diego Salas Arpasi",
+    "email": "diegosalas@gmail.com",
+    "rol": "mecanico",
+    "activo": true,
+    "telefono": "961444341",
+    "mecanico": {
+      "nombre_local": null,
+      "aprobado": false,
+      "ubicacion": null,
+      "especialidades": null
+    }
+  },
+  {
+    "id": 23,
+    "nombre": "Benchmark Cliente",
+    "email": "bench_cliente@mecanicgo.com",
+    "rol": "cliente",
+    "activo": true,
+    "telefono": "999-0001",
+    "mecanico": null
+  },
+  {
+    "id": 24,
+    "nombre": "Benchmark Mecanico",
+    "email": "bench_mecanico@mecanicgo.com",
+    "rol": "mecanico",
+    "activo": true,
+    "telefono": "999-0002",
+    "mecanico": {
+      "nombre_local": null,
+      "aprobado": true,
+      "ubicacion": "Localhost",
+      "especialidades": "Benchmark, Pruebas"
+    }
+  }
+]
